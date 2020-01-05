@@ -1,0 +1,7 @@
+google-images-download/google-images-download/downloads/*
+.DS_Store
+wikiart/wikiart-saved
+*.jpg
+*.gif
+*.png
+*.jpeg
