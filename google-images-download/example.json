@@ -1,0 +1,19 @@
+{
+    "Records": [
+        {
+            "keywords": "亥",
+            "chromedriver": "/usr/local/bin/chromedriver",
+            "limit": 250
+        },
+        {
+            "keywords": "silhouette animal",
+            "chromedriver": "/usr/local/bin/chromedriver",
+            "limit": 250
+        },
+		{
+            "keywords": "森",
+            "chromedriver": "/usr/local/bin/chromedriver",
+            "limit": 250
+        }
+    ]
+}
